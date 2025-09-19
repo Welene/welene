@@ -9,8 +9,9 @@
 - Languages: Norwegian, English, Swedish... (*I might know a bit french - oui oui baguette?*)
 - Hobbies: making webpages, designing, gaming, piano, drawing, photography, hiking & video editing
 - Other things I love: learning new things, the universe, nature, animals & making people happy! 
-### 💡 Wanna know about my education & what I have learned - look below! 
 ### ❤️ Thank you for taking the time to look at my page - you're welcome back anytime!
+
+### 💡 Wanna know about my education & what I have learned - look below! 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
