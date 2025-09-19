@@ -1,13 +1,13 @@
 # ✨ Hello and welcome to my repository! ✨ 
 
-### 🎓 I am currently studying frontend development & will officially be a frontend developer by summer 2026!
+### 🎓 Currently studying frontend development & will officially be a frontend developer by summer 2026!
 ### ⚡ Quick facts to get to know me:
 - Name: Helene
 - Age: 26
 - Languages: Norwegian, English, Swedish... (*I might know a bit french - oui oui baguette?*)
 - Hobbies: making webpages, designing, gaming, piano, drawing, photography, hiking & video editing
 - Other things I love: learning new things, the universe, nature, animals & making people happy! 
-### 💡 Wanna know more about my education & what I have learned - look out below! 
+### 💡 Wanna know about my education & what I have learned - look below! 
 ### ❤️ Thank you for taking the time to look at my page - you're welcome back anytime!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
