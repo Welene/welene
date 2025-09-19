@@ -20,6 +20,28 @@
 - 🌼 FINISHED: Juni 2026
 - ⚠️ STARTING SOON
 
+### 👾 Technologies / Programming Languages / Frameworks
+- React
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- MongoDB
+- DynamoDB
+- AWS
+
+### 🛠 Tools / Software
+- Figma 
+- VS Code
+- Git 
+- GitHub 
+
+### 🎨 Methods / Practices / Workflows
+- Agile work
+- UI/UX principles
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### IT & Frontend Basics
 - Overview - IT industry & frontend development   
 - Roles in tech & how teams work  
@@ -76,22 +98,3 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👾 Technologies / Programming Languages / Frameworks
-- React
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- MongoDB
-- DynamoDB
-- AWS
-
-### 🛠 Tools / Software
-- Figma (design & prototyping)
-- VS Code (code editor)
-- Git (version control system – committing, pushing, pulling, branching, merging, etc.)
-- GitHub (platform to host repositories & collaborate using Git)
-
-### 🎨 Methods / Practices / Workflows
-- Agile work (Scrum, Kanban, sprints, stand-ups, estimation)
-- UI/UX principles (user experience & interface design, design thinking)
