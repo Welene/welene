@@ -1,5 +1,7 @@
 # ✨ Hello and welcome to my repository! ✨ 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🎓 Currently studying frontend development & will officially be a frontend developer by summer 2026!
 ### ⚡ Quick facts to get to know me:
 - Name: Helene
@@ -12,9 +14,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Folkuniversitetet yrkeshögskola Göteborg - (📍 Karlstad)
-### 🌱 START: Augusti 2024
-### 🌼 FINISHED: Juni 2026
+### Folkuniversitetet yrkeshögskola Göteborg - (📍 Karlstad)
+- 🌱 START: Augusti 2024
+- 🌼 FINISHED: Juni 2026
 - ⚠️ STARTING SOON
 
 ### IT & Frontend Basics
