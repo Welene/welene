@@ -1,7 +1,7 @@
 ### ✨ Hello and welcome to my repository! ✨ 
 
 ## 🎓 I am currently studying frontend development & will officially be a frontend developer by summer 2026!
-##⚡ Quick facts to get to know me:
+## ⚡ Quick facts to get to know me:
 - Name: Helene
 - Age: 26
 - Languages: Norwegian, English, Swedish... (*I might know a bit french - oui oui baguette?*)
@@ -15,61 +15,61 @@
 ## Folkuniversitetet yrkeshögskola Göteborg - (📍 Karlstad)
 # 🌱 START: Augusti 2024
 # 🌼 FINISHED: Juni 2026
-# ⚠️ STARTING SOON
+- ⚠️ STARTING SOON
 
-## IT & Frontend Basics
-# Overview - IT industry & frontend development   
-# Roles in tech & how teams work  
+# IT & Frontend Basics
+- Overview - IT industry & frontend development   
+- Roles in tech & how teams work  
 
-## UX/UI Fundamentals
-# Principles of usability, UX vs UI  
-# Design Thinking
-# Prototyping in Figma 
-# Color theory, layout & typography  
+# UX/UI Fundamentals
+- Principles of usability, UX vs UI  
+- Design Thinking
+- Prototyping in Figma 
+- Color theory, layout & typography  
 
-## HTML & CSS
-# Building semantic, accessible webpages  
-# CSS: Flexbox, Grid, responsive design ++ 
-# Styling forms & tables, BEM
-# Web accessibility & best practices  
+# HTML & CSS
+- Building semantic, accessible webpages  
+- CSS: Flexbox, Grid, responsive design ++ 
+- Styling forms & tables, BEM
+- Web accessibility & best practices  
 
-## Programming & JavaScript
-# Concepts, pseudocode & logical thinking  
-# Variables, loops & functions  
-# Arrays, objects & the DOM  
-# Event handling, form validation & async API calls  
-# Using localStorage
+# Programming & JavaScript
+- Concepts, pseudocode & logical thinking  
+- Variables, loops & functions  
+- Arrays, objects & the DOM  
+- Event handling, form validation & async API calls  
+- Using localStorage
 
-## Agile Working & Teamwork
-# Extensive practice in agile work   
-# Scrum, Kanban, agile estimation & managing a team project   
+# Agile Working & Teamwork
+- Extensive practice in agile work   
+- Scrum, Kanban, agile estimation & managing a team project   
 
-## Frontend Frameworks
-# React: components, props, state, hooks, routing & Single Page Application 
-# Global state management (Zustand)  
-# Building interactive & dynamic web apps  
+# Frontend Frameworks
+- React: components, props, state, hooks, routing & Single Page Application 
+- Global state management (Zustand)  
+- Building interactive & dynamic web apps  
 
-## Backend with Node.js
-# REST APIs with Express & Node.js  
-# Data validation, NoSQL databases (MongoDB) & middlewares  
-# Auth with Jason Web Token, password encryption & API documentation (Swagger)    
-# Security
+# Backend with Node.js
+- REST APIs with Express & Node.js  
+- Data validation, NoSQL databases (MongoDB) & middlewares  
+- Auth with Jason Web Token, password encryption & API documentation (Swagger)    
+- Security
 
-## Cloud Development & Deployment
-# Serverless structure: AWS Lambda functions, API Gateway & Serverless Framework  
-# CRUD with DynamoDB  
-# ⚠️ Deploying frontend apps to AWS S3  
+# Cloud Development & Deployment
+- Serverless structure: AWS Lambda functions, API Gateway & Serverless Framework  
+- CRUD with DynamoDB  
+- ⚠️ Deploying frontend apps to AWS S3  
 
-## ⚠️ AI
-# Implementing AI in projects, making a chatbot  
-# AI tools & how to use them responsibly in development  
+# ⚠️ AI
+- Implementing AI in projects, making a chatbot  
+- AI tools & how to use them responsibly in development  
 
-## ⚠️ LIA (internship)
-# IRL experience in frontend & fullstack
+# ⚠️ LIA (internship)
+- IRL experience in frontend & fullstack
 
-## ⚠️ Fullstack Projects
-# Fullstack projects (team & individual)  
-# Using frontend, backend, cloud deployment & agile methods  
+# ⚠️ Fullstack Projects
+- Fullstack projects (team & individual)  
+- Using frontend, backend, cloud deployment & agile methods  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
