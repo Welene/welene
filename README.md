@@ -1,6 +1,5 @@
 # ✨ Hello and welcome to my repository! ✨ 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🎓 Currently studying frontend development & will officially be a frontend developer by summer 2026!
 ### ⚡ Quick facts to get to know me:
@@ -41,6 +40,8 @@
 - UI/UX principles
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Details
 
 ### IT & Frontend Basics
 - Overview - IT industry & frontend development   
