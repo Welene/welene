@@ -85,7 +85,7 @@
 ### Cloud Development & Deployment
 - Serverless structure: AWS Lambda functions, API Gateway & Serverless Framework  
 - CRUD with DynamoDB  
-- ⚠️ Deploying frontend apps to AWS S3  
+- Deploying frontend apps to AWS S3  
 
 ### ⚠️ AI
 - Implementing AI in projects, making a chatbot  
