@@ -15,8 +15,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Folkuniversitetet yrkeshögskola Göteborg - (📍 Karlstad)
-- 🌱 START: Augusti 2024
-- 🌼 FINISHED: Juni 2026
+- 🌱 START: August 2024
+- 🌼 FINISHED: June 2026
 - ⚠️ STARTING SOON
 
 ### 👾 Technologies / Programming Languages / Frameworks
