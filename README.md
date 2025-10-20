@@ -87,8 +87,9 @@
 - CRUD with DynamoDB  
 - Deploying frontend apps to AWS S3  
 
-### ⚠️ AI
-- Implementing AI in projects, making a chatbot  
+### AI
+- Implementing AI in projects, making a chatbot
+- Vector database (Supabase) & RAG
 - AI tools & how to use them responsibly in development  
 
 ### ⚠️ LIA (internship)
