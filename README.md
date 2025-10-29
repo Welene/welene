@@ -28,6 +28,7 @@
 - MongoDB
 - DynamoDB
 - AWS
+- Supabase
 
 ### 🛠 Tools / Software
 - Figma 
