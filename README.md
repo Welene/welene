@@ -1,7 +1,7 @@
 # ✨ Hello and welcome to my repository! ✨ 
 
 
-### 🎓 Currently studying frontend development & will officially be a frontend developer by summer 2026!
+### 🎓 Currently studying web development & will officially be a web developer by summer 2026!
 ### ⚡ Quick facts to get to know me:
 - Name: Helene
 - Age: 26
