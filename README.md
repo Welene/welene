@@ -96,7 +96,7 @@
 ### ⚠️ LIA (internship)
 - IRL experience in frontend & fullstack
 
-### ⚠️ Fullstack Projects
+### Fullstack Projects
 - Fullstack projects (team & individual)  
 - Using frontend, backend, cloud deployment & agile methods  
 
