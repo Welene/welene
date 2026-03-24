@@ -29,6 +29,8 @@
 - DynamoDB
 - AWS
 - Supabase
+- React Native
+- Expo
 
 ### 🛠 Tools / Software
 - Figma 
