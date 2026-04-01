@@ -36,7 +36,8 @@
 - Figma 
 - VS Code
 - Git 
-- GitHub 
+- GitHub
+- Expo Go
 
 ### 🎨 Methods / Practices / Workflows
 - Agile work
