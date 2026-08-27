@@ -1,7 +1,7 @@
 # ✨ Hello and welcome to my repository! ✨ 
 
 
-### 🎓 Currently studying web development & will officially be a web developer by summer 2026!
+### 🎓 Finished web development education 2026
 ### ⚡ Quick facts to get to know me:
 - Name: Helene
 - Age: 27
@@ -17,7 +17,6 @@
 ### Folkuniversitetet yrkeshögskola Göteborg - (📍 Karlstad)
 - 🌱 START: August 2024
 - 🌼 FINISHED: June 2026
-- ⚠️ STARTING SOON
 
 ### 👾 Technologies / Programming Languages / Frameworks
 - React
@@ -96,7 +95,7 @@
 - Vector database (Supabase) & RAG
 - AI tools & how to use them responsibly in development  
 
-### ⚠️ LIA (internship)
+###  LIA (internship)
 - IRL experience in frontend & fullstack
 
 ### Fullstack Projects
