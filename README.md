@@ -37,6 +37,8 @@
 - Git 
 - GitHub
 - Expo Go
+- Docker
+- Wix
 
 ### 🎨 Methods / Practices / Workflows
 - Agile work
