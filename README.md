@@ -11,7 +11,7 @@
 ### ❤️ Thank you for taking the time to look at my page - you're welcome back anytime!
 ### 👉 Make sure to check out [my portfolio page](https://my-portfolio-two-gamma-63.vercel.app/)!
 
-### 💡 Wanna know about my education & what I have learned - look below! 
+### 💡 Wanna know about my education & what I have learned - look below: 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
