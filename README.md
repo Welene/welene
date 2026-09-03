@@ -9,6 +9,7 @@
 - Hobbies: making webpages, designing, gaming, piano, drawing, photography, hiking & video editing
 - Other things I love: learning new things, the universe, nature, animals & making people happy! 
 ### ❤️ Thank you for taking the time to look at my page - you're welcome back anytime!
+### Make sure to check out [my portfolio page](https://my-portfolio-two-gamma-63.vercel.app/)!
 
 ### 💡 Wanna know about my education & what I have learned - look below! 
 
