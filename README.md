@@ -40,6 +40,7 @@
 - GitHub
 - Expo Go
 - Docker
+- Azure
 - Wix
 
 ### 🎨 Methods / Practices / Workflows
