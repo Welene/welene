@@ -24,6 +24,7 @@
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Node.js
 - MongoDB
 - DynamoDB
