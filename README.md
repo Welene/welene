@@ -46,6 +46,8 @@
 ### 🎨 Methods / Practices / Workflows
 - Agile work
 - UI/UX principles
+- WCAG
+- GCP
 
 
 
