@@ -26,12 +26,14 @@
 - JavaScript
 - TypeScript
 - Node.js
+- Zustand
 - MongoDB
 - DynamoDB
 - AWS
 - Supabase
 - React Native
 - Expo
+- GCP
 
 ### 🛠 Tools / Software
 - Figma 
@@ -47,7 +49,6 @@
 - Agile work
 - UI/UX principles
 - WCAG
-- GCP
 
 
 
